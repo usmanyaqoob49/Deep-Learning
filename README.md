@@ -1,2 +1,2 @@
 # Deep-Learning
-Mostly things related to that I tried coding from scratch :)
+Things related to Deep Learning (Some Scratch Codes and Neural Nets) :)
